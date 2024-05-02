@@ -1,0 +1,131 @@
+
+.Box1{
+    border: 2px solid;
+    border: red;
+}
+.menu{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.m1{
+    border: solid black 0px;
+    align-content: flex-start;
+    margin-right: 25px;
+    margin-left: 25px;
+    text-decoration: none;
+}
+.m2{
+    border: solid black 0px;
+    align-content: flex-start;
+    margin-right: 25px;
+    margin-left: 25px;
+    text-decoration: none;
+}
+.m3{
+    border: solid black 0px;
+    align-content: flex-start;
+    margin-right: 25px;
+    margin-left: 25px;
+    text-decoration: none;
+}
+.m4{
+    border: solid black 0px;
+    align-content: flex-start;
+    margin-right: 25px;
+    margin-left: 25px;
+    text-decoration: none;
+}
+.m5{
+    border: solid black 0px;
+    align-content: flex-start;
+    margin-right: 25px;
+    margin-left: 25px;
+    text-decoration: none;
+}
+.m6{
+    border: solid black 0px;
+    align-content: flex-start;
+    margin-right: 25px;
+    margin-left: 25px;
+    text-decoration: none;
+}
+.m7{
+    min-width: 160px;
+        font-size: 15px;
+        line-height: 19px;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        color: #FFFFFF;
+    background: #d23131;
+    padding: 15px 30px;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 360px;
+}
+input{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    appearance: none;
+    overflow: hidden;
+    position: relative;
+    width: 60;
+    height: 61px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #111b47;
+    line-height: 16px;
+    background: none;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    transition: all .25s ease-out;
+    padding: 8px 30px;
+    margin: 0;
+    font-family: "Quicksand", sans-serif;
+    outline: none;
+    box-sizing: border-box;
+}
+.figure img {
+    width: 100%;
+}
+
+img, svg {
+    vertical-align: middle;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.Box2{
+    background-image: url(../img/Cropped-Homepage-pic-edited.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.Give{
+    
+        min-width: 160px;
+        font-size: 15px;
+        line-height: 19px;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        color: #b4213c;
+    background: #FFFFFF;
+    padding: 15px 30px;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 360px;
+
+}
+h1{
+    font: 44px Quiksand;
+    color: white;
+    font-family: sans-serif;
+}
+.Give{
+    color: #B8084A;
+    font: 16px Quiksand;
+    font-family: sans-serif;
+}
